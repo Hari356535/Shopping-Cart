@@ -6,7 +6,7 @@ on:
       - main
     tags:
       - "Version:*"
-   workflow_dispatch:
+   workflow_dispatch: 
   
 jobs:
   tag:
